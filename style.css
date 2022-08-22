@@ -1040,3 +1040,34 @@ h4 {
         text-align: center;
     }
 }
+}
+.btn-d{
+    color: #FFFFFF!important;
+}
+.black ,.icon-md{
+    color: #000000!important;
+}
+.bloc__title-h2{
+    max-width: 62rem;
+    margin: auto;
+}
+.citation{
+    font-size: 18px;
+    max-width: 51rem;
+    margin: auto;
+}
+.citation>span{
+    font-weight: bold;
+    font-style: italic;
+}
+.portfolio__title-h2{
+    max-width: 42rem;
+    margin:auto;
+}
+.img-responsive{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
