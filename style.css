@@ -781,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #ffe3d2;
+    color: #fff;
 }
 
 .description {
@@ -789,8 +789,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #FFF!important;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1053,7 +1053,7 @@ h4 {
     color: #000000!important;
 }
 .bloc__title-h2{
-    max-width: 62rem;
+    max-width: 90rem;
     margin: auto;
 }
 .citation{
