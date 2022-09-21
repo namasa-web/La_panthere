@@ -692,12 +692,17 @@ p {
 }
 
 .cta-hero {
-    margin-top: 22px;
+    position:relative;
+    margin-top: 15px;
     color: #FFFFFF;
     text-transform: uppercase;
-    padding: 12px 28px 12px 28px;
-    font-size: 16px;
-    font-weight: 700;
+    padding: 1rem 2rem;
+    font-size: clam(.8rem,2vw,1.2rem);
+    font-weight: 600;
+    letter-spacing: 1px;
+    color:#000;
+    background: #fff;
+    transition:all 0.2s ease-in-out;
 }
 
 .social {
