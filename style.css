@@ -195,12 +195,12 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 0.753);
 }
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
-    color: rgba(0, 0, 0, .7);
+    color: rgba(0, 0, 0, 0.76);
 }
 
 .l-bloc .icon-round,
@@ -1053,7 +1053,7 @@ h4 {
     color: #000000!important;
 }
 .bloc__title-h2{
-    max-width: 42rem;
+    max-width: 65rem;
     margin: auto;
 }
 .citation{
