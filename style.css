@@ -711,7 +711,7 @@ p {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 26px;
     line-height: 1.4em;
 }
 
@@ -1053,7 +1053,7 @@ h4 {
     color: #000000!important;
 }
 .bloc__title-h2{
-    max-width: 60rem;
+    max-width: 42rem;
     margin: auto;
 }
 .citation{
